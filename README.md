@@ -61,6 +61,18 @@ Another distinctive feature of Saint Tropez's architecture is its use of geometr
 
 Monaco villas are often more opulent and luxurious than their counterparts. This is due in part to the fact that Monaco is a sovereign city-state, and as such, its residents are some of the wealthiest in the world. Consequently, the architecture of Monaco villas tends to be more grandiose and ostentatious than that of Cannes and Saint-Tropez. Another key difference is that Monaco villas are often built on hilltops or cliffs, offering stunning views of the Mediterranean Sea. Lastly, due to the small size of Monaco, villas tend to be closer together than in Cannes, giving the city a more intimate feel.
 
+## Searching Monaco - Destination of Meeting
+
+I have decided that I am going to search Monaco as the defintion of it's architecture is the one that most resembles the picture provided during the mission brief. Upon searching Monaco it did not take long to find the meeting place although the meeting spot is completely different than the photo that was provided during the mission briefing. This is due to the area being edited with an optical illusion to increase the difficulty of the challenge. 
+
+![image](https://user-images.githubusercontent.com/103153079/187558664-7331ec73-50a3-41e9-8128-5646bb4fb49b.png)
+
+**33 Boulevard de Belgique, 98000 Monaco**
+
+![image](https://github.com/VEEXH/The-Listeners-Writeup/blob/main/S3.jpg "Aerial view of location")
+
+**Coordinates: 43.731785, 7.414681**
+
 
 
 

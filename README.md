@@ -31,7 +31,7 @@ Using the information provided via the mission briefing and the intercepted imag
 
 **Rosemary Plant Distribution in the Mediterranean region**
 
-## Area that fits the description
+## Region that fits the description
 
 In the mission briefing there are keywords that standout which allow for making an accurate analysis of which part of the world the meeting place is taking in. The mission briefing states that the rivals enjoy a luxurious lifestyle **"along the coastlines of Western and Southern Europe."** There is only one place that fits the description along the Frensh speaking  Mediterranean coastline and that is the French Riviera. The French Riviera is a place that has always catered to the elite, giving them access to luxury property, lifestyle of cars, yachts and seafront property. 
 

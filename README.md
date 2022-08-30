@@ -43,5 +43,24 @@ In the mission briefing there are keywords that standout which allow for making 
 
 The French Riviera spans a massive coastline and checking every general location would take too much so to shorten the amount of time it would take in identifying a precise area of where the meeting is going to take place I began cross-referencing the architecture styles of the most famous areas of the French Riviera. 
 
+### French Art Nouveau architecture - Cannes, France
+![image](https://user-images.githubusercontent.com/103153079/187554353-17ddd788-7c19-4d51-8b3c-1a896e4329ee.png)
+
+A majority of the architecture within the city of Cannes has an art nouveau style which is an art movement that emerged in France in the late 19th century. The style is characterized by its use of curved lines and organic forms, as well as its focus on nature and the natural world. The architecture of villas in the photo of the meeting place is more opulent and luxurious than their Cannes counterparts. 
+
+## Traditional Provençal architecture - Saint Tropez, France
+![image](https://user-images.githubusercontent.com/103153079/187556414-3ecf691e-99f3-4f74-8381-382045ef75f8.png)
+
+Saint Tropez is a town in southeastern France that is famous for its chic beaches and celebrity residents. The town has a long history, dating back to the Roman era. Its traditional architecture is a reflection of this rich history. The most notable feature of Saint Tropez's traditional architecture is its use of bright colours. The buildings are often painted in shades of pink, yellow, and blue. This is in contrast to the more muted colours commonly seen in other parts of France.
+Another distinctive feature of Saint Tropez's architecture is its use of geometric shapes. The buildings are often designed with simple, clean lines. This gives the town a modern feel, despite its traditional roots.
+
+## Art Deco Architecture - Monaco
+![image](https://user-images.githubusercontent.com/103153079/187557370-33a6ca53-ab51-4995-a792-2ee060b14132.png)
+
+
+
+Monaco villas are often more opulent and luxurious than their counterparts. This is due in part to the fact that Monaco is a sovereign city-state, and as such, its residents are some of the wealthiest in the world. Consequently, the architecture of Monaco villas tends to be more grandiose and ostentatious than that of Cannes and Saint-Tropez. Another key difference is that Monaco villas are often built on hilltops or cliffs, offering stunning views of the Mediterranean Sea. Lastly, due to the small size of Monaco, villas tend to be closer together than in Cannes, giving the city a more intimate feel.
+
+
 
 

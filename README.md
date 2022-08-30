@@ -11,13 +11,13 @@ Using the information provided via the mission briefing and the intercepted imag
   ![Location of the meeting](https://tiberianorder.com/wp-content/uploads/2022/08/the-listeners.jpg)
   
   ## Initial Assesment
-  Upon viewing the image there are key indicators that stood out to me that I used to pinpoint a general location. 
+  Upon viewing the image, there are vital indicators that stood out to me that I used to pinpoint a general location.  
   
   **Image 1:** 
   
   ![Mirror](https://github.com/VEEXH/The-Listeners-Writeup/blob/main/S1.jpg "TM-F French Premium traffic mirror")
   
-  The TM-F French Premium traffic mirror corresponds to the specific characteristics of french traffic regulations, conform to the French act of 1981. The mirror helps to increase the safety on roads. Google lens identified the mirror as a traffic mirror and I was able to use this website **http://www.vsi.eu/en/traffic-mirrors** to accurately pinpoint which country uses this specific black and white pattern. 
+  The TM-F French Premium traffic mirror corresponds to the specific characteristics of french traffic regulations and conforms to the French act of 1981. The mirror helps to increase safety on roads. Google lens identified the mirror as a traffic mirror, and I was able to use this website **http://www.vsi.eu/en/traffic-mirrors** to accurately pinpoint which country uses this specific black and white pattern. 
   
   **Image 2:**
   
@@ -33,7 +33,7 @@ Using the information provided via the mission briefing and the intercepted imag
 
 ## Region that fits the description
 
-In the mission briefing there are keywords that standout which allow for making an accurate analysis of which part of the world the meeting place is taking in. The mission briefing states that the rivals enjoy a luxurious lifestyle **"along the coastlines of Western and Southern Europe."** There is only one place that fits the description along the Frensh speaking  Mediterranean coastline and that is the French Riviera. The French Riviera is a place that has always catered to the elite, giving them access to luxury property, lifestyle of cars, yachts and seafront property. 
+In the mission briefing, some keywords stand out, allowing accurate analysis of which part of the world the meeting place is taking. The mission briefing states that the rivals enjoy a luxurious lifestyle **"along the coastlines of Western and Southern Europe."** There is only one place that fits the description along the French-speaking Mediterranean coastline: the French Riviera. The French Riviera is a place that has always catered to the elite, giving them access to luxury property, the lifestyle of cars, yachts, and seafront property.  
 
 ![bb67565121205a2c24f340b874ce3213](https://user-images.githubusercontent.com/103153079/187552575-e8096e33-7156-4022-8990-e2f4012938ff.jpg)
 
@@ -41,12 +41,12 @@ In the mission briefing there are keywords that standout which allow for making 
 
 ## Analyzing Architecture 
 
-The French Riviera spans a massive coastline and checking every general location would take too much so to shorten the amount of time it would take in identifying a precise area of where the meeting is going to take place I began cross-referencing the architecture styles of the most famous areas of the French Riviera. 
+The French Riviera spans a massive coastline, and checking every general location would take too much time, so to shorten the amount of time it would take to identify a precise area of where the meeting is going to take place, I began cross-referencing the architectural styles of the most famous regions of the French Riviera.  
 
 ### French Art Nouveau architecture - Cannes, France
 ![image](https://user-images.githubusercontent.com/103153079/187554353-17ddd788-7c19-4d51-8b3c-1a896e4329ee.png)
 
-A majority of the architecture within the city of Cannes has an art nouveau style which is an art movement that emerged in France in the late 19th century. The style is characterized by its use of curved lines and organic forms, as well as its focus on nature and the natural world. The architecture of villas in the photo of the meeting place is more opulent and luxurious than their Cannes counterparts. 
+Most of the architecture within the city of Cannes has an art nouveau style, an art movement that emerged in France in the late 19th century. The class is characterized by its use of curved lines and organic forms and its focus on nature and the natural world. The architecture of villas in the photo of the meeting place is more opulent and luxurious than their Cannes counterparts. 
 
 ## Traditional Provençal architecture - Saint Tropez, France
 ![image](https://user-images.githubusercontent.com/103153079/187556414-3ecf691e-99f3-4f74-8381-382045ef75f8.png)

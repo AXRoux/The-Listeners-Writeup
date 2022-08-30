@@ -25,7 +25,7 @@ Using the information provided via the mission briefing and the intercepted imag
   
   This image consits of two plants:
   
-  Agapanthus praecox (common agapanthus, blue lily, African lily, or lily of the Nile) is a popular garden plant around the world, especially in Mediterranean climates and Salvia rosmarinus, commonly known as rosemary, is a shrub with fragment, evergreen, needle like leaves and white, pink purple, or blue flowers, native to the Mediterranean region. Google lens is capable of identfying plants however, if you want a more accurate analysis use can use **plant.id** a free plant identification service based on machine learning. 
+  Agapanthus praecox (common agapanthus, blue lily, African lily, or lily of the Nile) is a popular garden plant around the world, especially in Mediterranean climates and Salvia rosmarinus, commonly known as rosemary, is a shrub with fragment, evergreen, needle like leaves and white, pink purple, or blue flowers, native to the Mediterranean region. Google lens is capable of identfying plants however, if you want a more accurate analysis use **plant.id** a free plant identification service based on machine learning. 
   
   ![image](https://user-images.githubusercontent.com/103153079/187551803-67e836a1-f9dc-431f-a13e-0dfc9692e8b1.png)
 

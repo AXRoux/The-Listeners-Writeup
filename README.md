@@ -63,7 +63,7 @@ Monaco villas are often more opulent and luxurious than their counterparts. This
 
 ## Searching Monaco - Destination of Meeting
 
-I have decided that I will search Monaco as the definition of its architecture is the one that most resembles the picture provided during the mission brief. Upon exploring Monaco, it did not take long to find the meeting place, although the meeting spot is entirely different from the photo provided during the mission briefing. This is due to the area being edited with an optical illusion to increase the difficulty of the challenge.  
+I have decided that I will search Monaco using Google Street View as the definition of its architecture is the one that most resembles the picture provided during the mission brief. Upon exploring Monaco, it did not take long to find the meeting place, although the meeting spot is entirely different from the photo provided during the mission briefing. This is due to the area being edited with an optical illusion to increase the difficulty of the challenge.  
 
 ![image](https://user-images.githubusercontent.com/103153079/187558664-7331ec73-50a3-41e9-8128-5646bb4fb49b.png)
 

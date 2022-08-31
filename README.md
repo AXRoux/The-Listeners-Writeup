@@ -13,13 +13,13 @@ Using the information provided via the mission briefing and the intercepted imag
   ## Initial Assesment
   Upon viewing the image, there are vital indicators that stood out to me that I used to pinpoint a general location.  
   
-  **Image 1:** 
+  **Indicator 1:** 
   
   ![Mirror](https://github.com/VEEXH/The-Listeners-Writeup/blob/main/S1.jpg "TM-F French Premium traffic mirror")
   
   The TM-F French Premium traffic mirror corresponds to the specific characteristics of french traffic regulations and conforms to the French act of 1981. The mirror helps to increase safety on roads. Google lens identified the mirror as a traffic mirror, and I was able to use this website **http://www.vsi.eu/en/traffic-mirrors** to accurately pinpoint which country uses this specific black and white pattern. 
   
-  **Image 2:**
+  **Indicator 2:**
   
   ![Plant](https://github.com/VEEXH/The-Listeners-Writeup/blob/main/S2.jpg "Rosemary plant")
   
@@ -67,7 +67,7 @@ I have decided that I will search Monaco as the definition of its architecture i
 
 ![image](https://user-images.githubusercontent.com/103153079/187558664-7331ec73-50a3-41e9-8128-5646bb4fb49b.png)
 
-**32 Boulevard de Belgique, 98000 Monaco**
+**32 Boulevard de Belgique, 98000 Monaco** - **Google Street view from 2011**
 
 ![image](https://github.com/VEEXH/The-Listeners-Writeup/blob/main/S3.jpg "Aerial view of location")
 

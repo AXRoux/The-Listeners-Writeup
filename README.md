@@ -10,7 +10,7 @@ Using the information provided via the mission briefing and the intercepted imag
   
   ![Location of the meeting](https://tiberianorder.com/wp-content/uploads/2022/08/the-listeners.jpg)
   
-  ## Initial Assesment
+  ## Initial Assessment
   Upon viewing the image, there are vital indicators that stood out to me that I used to pinpoint a general location.  
   
   **Indicator 1:** 

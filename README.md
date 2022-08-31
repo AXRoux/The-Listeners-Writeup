@@ -54,7 +54,7 @@ Most of the architecture within the city of Cannes has an art nouveau style, an 
 Saint Tropez is a town in southeastern France that is famous for its chic beaches and celebrity residents. The town has a long history, dating back to the Roman era. Its traditional architecture is a reflection of this rich history. The most notable feature of Saint Tropez's traditional architecture is its use of bright colours. The buildings are often painted in shades of pink, yellow, and blue. This is in contrast to the more muted colours commonly seen in other parts of France.
 Another distinctive feature of Saint Tropez's architecture is its use of geometric shapes. The buildings are often designed with simple, clean lines. This gives the town a modern feel, despite its traditional roots.
 
-## Art Deco Architecture - Monaco
+## Art Deco architecture - Monaco
 ![image](https://user-images.githubusercontent.com/103153079/187557370-33a6ca53-ab51-4995-a792-2ee060b14132.png)
 
 
